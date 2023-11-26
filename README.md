@@ -6,8 +6,8 @@
 * 😄 Pronouns: ele/ele
 ## Apaixonado por Tecnologias e Pessoas
 
-[![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvio-Marinho&show_icons=true&theme=ambient_gradient&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvio-Marinho&layout=compact)]
+![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvio-Marinho&show_icons=true&theme=ambient_gradient&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvio-Marinho&layout=compact)
 
 #### Conhecimento em Sistemas Operacionais
 <div style="display: inline_block">
