@@ -9,6 +9,8 @@
 ![Silvio GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvio-Marinho&show_icons=true&theme=ambient_gradient&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvio-Marinho&layout=compact)
 
+
+
 #### Conhecimento em Sistemas Operacionais
 <div style="display: inline_block">
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -60,3 +62,13 @@
 </div>
 
 * Desenvolvedor de Sistemas em Linguagem C#
+
+  <div align="center">
+  <h3><b>Contagem de Visitantes no Perfil</b></h3>
+</div>
+
+<div align="center">
+
+  ![Visitor Count](https://profile-counter.glitch.me/Silvio-Marinho/count.svg)
+
+</div>
